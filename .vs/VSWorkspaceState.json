@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\e2e",
+    "\\e2e\\src",
     "\\src",
     "\\src\\app",
     "\\src\\app\\employees"
   ],
-  "SelectedNode": "\\src\\app\\employees",
+  "SelectedNode": "\\src\\app\\employees\\listemployees.component.ts",
   "PreviewInSolutionExplorer": false
 }

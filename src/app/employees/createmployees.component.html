@@ -1,7 +1,7 @@
 
   <form #employeeForm="ngForm" (ngSubmit)="saveEmployee(employeeForm)">
     <div class="row">
-      <div class="col-25">
+      <div class="panel panel-primary col-25">
         <label for="fullname">First Name</label>
       </div>
       <div class="col-75">
@@ -36,6 +36,9 @@
 
     <div class="row">
       <input type="submit" value="Submit">
+    </div>
+    <div class="alert alert-warning" role="alert">
+      A simple warning alert—check it out!
     </div>
   </form>
 
